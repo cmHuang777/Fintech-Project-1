@@ -1,0 +1,1 @@
+This is a project under NUS Fintech Society to predict stock prices in two different approaches, LSTM and ARIMA.
